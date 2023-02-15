@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-one/static/css/main.1374c47e.css",
+    "main.js": "/react-one/static/js/main.ee031d9e.js",
+    "static/js/787.30134d4d.chunk.js": "/react-one/static/js/787.30134d4d.chunk.js",
+    "static/media/m1000rr.webp": "/react-one/static/media/m1000rr.005c1c7d52c26083c504.webp",
+    "static/media/bmw.png": "/react-one/static/media/bmw.bd3d0c0801391785cc2f.png",
+    "static/media/send.svg": "/react-one/static/media/send.2eb369c01197861bcbfb39b636c9406f.svg",
+    "static/media/comment.svg": "/react-one/static/media/comment.7cb7c6cd41c1fdbf1d89e5791d1bec16.svg",
+    "static/media/heart.svg": "/react-one/static/media/heart.cb0d2295941f2889ab88c09376adeb90.svg",
+    "index.html": "/react-one/index.html",
+    "static/media/check.svg": "/react-one/static/media/check.08b1465f8b01df541f37beabf62c5b41.svg",
+    "main.1374c47e.css.map": "/react-one/static/css/main.1374c47e.css.map",
+    "main.ee031d9e.js.map": "/react-one/static/js/main.ee031d9e.js.map",
+    "787.30134d4d.chunk.js.map": "/react-one/static/js/787.30134d4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1374c47e.css",
+    "static/js/main.ee031d9e.js"
+  ]
+}
